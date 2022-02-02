@@ -1,8 +1,2 @@
-
-<p align="center">
-  <img src="https://media.giphy.com/media/rRxOR2sKBzDJ6/giphy-downsized-large.gif" alt="animated" />
-</p>
-<!---
-Artyom-Gerchik/Artyom-Gerchik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Artyom-Gerchik&theme=cobalt2&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artyom-Gerchik&theme=cobalt2&langs_count=3&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
+| ----------- | ----------- |
